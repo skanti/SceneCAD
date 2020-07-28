@@ -2,12 +2,19 @@
 
 We digitize 3D scans by jointly estimating scene layout and predicting CAD model alignments 
 
-<img src="github-pics/teaser.jpg" alt="SceneCAD" width="800" >
+<img src="github-pics/teaser.jpg" alt="SceneCAD" width="100%" >
 
  
 [Download Paper (.pdf)](https://arxiv.org/abs/2003.12622) 
 
 [See Youtube Video](https://www.youtube.com/watch?v=F0DpggYByh0)
+
+## Download Data
+
+
+[Get the *SceneCAD* layout dataset here!](http://char.vc.in.tum.de/download/scannet_planes.zip)
+
+Please cite our work when using our dataset :)
 
 
 ## Description
@@ -22,9 +29,22 @@ For the public dataset, we provide annotations with:
 * `1151` real-world 3D scans
 
 
+Our annotations are:
+
+* *Non-Manhattan Rooms*
+* *Non-Convex Shells*
+* *n-Polygonal Planes*
+
+
 ## Lightweight Layout Prediction Method
 
-<img src="github-pics/corner_heatmaps.jpg" alt="Corner Heatmaps" width="800" >
+<img src="github-pics/corner_heatmaps.jpg" alt="Corner Heatmaps" width="100%" >
+
+Pytorch code coming soon!
+
+## Sample Annotations
+
+<img src="github-pics/scannet_samples.jpg" alt="Corner Heatmaps" width="100%" >
 
 
 ## Citation
