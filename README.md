@@ -12,7 +12,7 @@ We digitize 3D scans by jointly estimating scene layout and predicting CAD model
 ## Download Data
 
 
-[Get the *SceneCAD* layout dataset here!](http://char.vc.in.tum.de/download/scannet_planes.zip)
+[Get the *SceneCAD* layout dataset here!](http://kaldir.vc.in.tum.de/scan2cad_download_planes)
 
 Please cite our work when using our dataset :)
 
